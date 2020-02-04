@@ -1,3 +1,3 @@
 # PhoneNumber converter
-6031234567 
-returns 603-123-4567
+Type your phone number: 6031234567 
+603-123-4567
